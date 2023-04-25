@@ -14,3 +14,6 @@ https://www.youtube.com/embed/3xuTpshG6mU
 
 ## youtube video 
 [text video](https://www.youtube.com/embed/3xuTpshG6mU)
+
+## out video
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
